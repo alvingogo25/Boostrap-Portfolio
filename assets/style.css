@@ -1,0 +1,9 @@
+.img {
+  width: 270px;
+  height: 270px;
+}
+
+body {
+	background-image: url(./images/dust_scratches.png);
+	background-repeat: repeat;
+}
